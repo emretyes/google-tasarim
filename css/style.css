@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+/*Search kısmı div için css*/
+.first {
+    float: left;
+    background-color: #eeeeee;
+    width: 80%;
+    height: 62px;
+    margin-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.clear {
+    clear: both;
+}
+/*Alt kısımdaki div için css*/
+.second {
+    float: left;
+    width: 80%;
+    height: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: auto;
+}
+/*Birinci mavi div*/
+#first {
+    float: left;
+    width: 38%;
+    height: 80px;
+    background-color: #7ee5da;
+    margin-right: 0.2%;
+}
+/*İkinci mavi div*/
+#second {
+    float: left;
+    width: 23.6%;
+    height: 80px;
+    background-color: #70ccc2;
+    margin-right: 0.2%;
+}
+/*Üçüncü mavi div*/
+#third {
+    float: left;
+    width: 38%;
+    height: 80px;
+    background-color: #62b3aa;
+}
